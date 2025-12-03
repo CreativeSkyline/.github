@@ -17,7 +17,7 @@ Wir sind eine deutsch-brasilianische Digital-Agentur mit Sitz in Hamburg und For
 | **Automatisierung & KI**    | n8n Workflows • eigene KI-Tools (FlowAI) • Prozessautomatisierung • Chatbots     |
 | **Hosting & DevOps**        | Skalierbares Hosting • Docker • CI/CD • Performance-Optimierung                 |
 | **Outsourcing**             | Virtuelle Assistenten • Backoffice • Kundenservice • Cold Calling               |
-| **Eigene Produkte**         | [FlowTime](https://flowtime.app) • FlowTasks • FlowAI – ab 3,99 €/Monat         |
+| **Eigene Produkte**         | FlowCRM • FlowTime • FlowTasks • FlowAI • uvm.         |
 
 ### Unsere Philosophie
 
