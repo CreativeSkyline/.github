@@ -1,6 +1,9 @@
+![Creative Skyline Banner](https://leads.creativeskyline.com/assets/app-logo/logo-type-light-mode.svg)
+
+___
+
 # Creative Skyline — Dein Partner für digitale Exzellenz seit 2014
 
-![Creative Skyline Banner](https://creativeskyline.com/assets/img/logo/creative-skyline-logo-dark.png)
 
 **Wir bauen nicht nur Code – wir bauen skalierbare Unternehmen.**
 
